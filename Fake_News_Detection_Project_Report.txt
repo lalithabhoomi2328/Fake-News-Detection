@@ -1,0 +1,32 @@
+
+PROJECT 4: AI-BASED FAKE NEWS DETECTION
+
+1. Introduction:
+This project uses Machine Learning to classify news as Fake or Real.
+
+2. Objectives:
+- Detect fake news.
+- Classify news articles.
+- Analyze text using NLP techniques.
+
+3. Technologies:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+4. Algorithm:
+TF-IDF Vectorization and Logistic Regression.
+
+5. Evaluation:
+Accuracy Score and Confusion Matrix.
+
+6. Output:
+- Fake News Dataset
+- Trained ML Model
+- Text Vectorizer
+- Prediction Results
+- Confusion Matrix Graph
+
+7. Conclusion:
+The project demonstrates how Machine Learning can classify news text.
+
+Note: This is a small synthetic demonstration dataset.
+It is not a reliable real-world fact-checking system.
